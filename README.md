@@ -3,8 +3,8 @@
 CODSOFT TASK 1 <br>
 <br>
 TITANIC SURVIVAL PREDICTION
-Dataset - https://www.kaggle.com/datasets/yasserh/titanic-dataset
-Model-Accuracy - 74%
+Dataset - https://www.kaggle.com/datasets/yasserh/titanic-dataset <br>
+Model-Accuracy - 74%<br>
 <br><br>
 CODSOFT TASK 2 
 
