@@ -2,7 +2,7 @@
 
 # Titanic Passenger Survival Prediction
 
-![Titanic Image](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+![Titanic Image]([https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg](https://www.google.com/imgres?q=titanic%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ffd%2FRMS_Titanic_3.jpg%2F800px-RMS_Titanic_3.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTitanic&docid=VR-PmNcBXAdQgM&tbnid=ll3jxMCeBNuw3M&vet=12ahUKEwjwo5aLztWGAxWmSWwGHTJqA3wQM3oECB8QAA..i&w=800&h=588&hcb=2&ved=2ahUKEwjwo5aLztWGAxWmSWwGHTJqA3wQM3oECB8QAA))
 
 This repository contains a Python project aimed at predicting the survival of passengers on the Titanic. Using various machine learning techniques, we analyze the Titanic dataset to build and evaluate models that predict whether a passenger survived the disaster.
 
